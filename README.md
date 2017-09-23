@@ -1,4 +1,4 @@
-# Cracking the Coding Interview (6th Edition) problems and solutions in javascript
+# Cracking the Coding Interview (6th Edition) solutions in javascript
 I decided to create this repo to help other javascript guys (aka Front End Engineers/Developers) like myself to prepare for technical interviews. 
 
 From my experience doing docens of interviews, I've concluded that most of the companies looking for front end related developers, at some point of the interview process will ask you some sort of coding question(s), involving problem solving, algorithms and data structures. 
